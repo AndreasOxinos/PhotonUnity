@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuneSlinger.Server", "RuneSlinger.Server\RuneSlinger.Server.csproj", "{ED8D3578-2505-4728-AC84-6FD34BDDF64A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug-Nelson|Any CPU = Debug-Nelson|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED8D3578-2505-4728-AC84-6FD34BDDF64A}.Debug-Nelson|Any CPU.ActiveCfg = Debug-Nelson|Any CPU
+		{ED8D3578-2505-4728-AC84-6FD34BDDF64A}.Debug-Nelson|Any CPU.Build.0 = Debug-Nelson|Any CPU
+		{ED8D3578-2505-4728-AC84-6FD34BDDF64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8D3578-2505-4728-AC84-6FD34BDDF64A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
